@@ -1,7 +1,7 @@
 # Smart-Sensing-Thread-Factory
 
 <p align="center">
-  <img src="Thread_Factory_Model_Render.png" width="350" title="hover text">
+  <img src="Thread_Factory_Model_Render.png" width="1000" title="hover text">
 </p>
 
 ## Overview
