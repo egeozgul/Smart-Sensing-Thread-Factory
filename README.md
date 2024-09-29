@@ -12,8 +12,6 @@ This project focuses on automating the thread production process using a combina
 
 - **firmwareSourceCode**: This directory includes the firmware for the microcontroller, which handles the overall operation of the system. The firmware reads sensor data, controls the stepper motors, adjusts system settings via a user interface, and maintains optimal conditions using PID control.
 
-- **Thread_Coating_Factory_Paper.pdf**: This document offers a comprehensive overview of the technical aspects of the thread coating process, including the system’s architecture, design rationale, and performance metrics.
-
 ## Setup
 
 1. Clone the repository:
