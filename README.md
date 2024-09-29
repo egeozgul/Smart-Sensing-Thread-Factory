@@ -1,5 +1,9 @@
 # Smart-Sensing-Thread-Factory
 
+<p align="center">
+  <img src="Thread_Factory_Model_Render.png" width="350" title="hover text">
+</p>
+
 ## Overview
 
 This project focuses on automating the thread production process using a combination of sensors and stepper motors. By implementing PID control, the system can maintain optimal tension, temperature, and conductivity, ensuring consistent thread quality throughout the manufacturing process.
