@@ -1,4 +1,4 @@
-# Arduino Multi-Sensor and Stepper Motor Control System
+# Driver for Smart Sensing Thread Factory
 
 ## Overview
 
