@@ -20,7 +20,7 @@ This project focuses on automating the thread production process using a combina
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[your-username]/Smart-Sensing-Thread-Factory.git
+   git clone https://github.com/egeozgul/Smart-Sensing-Thread-Factory.git
 
 2. Assemble the hardware according to the instructions, including printing the 3D parts from the cartridgeDesignFiles and producing the PCBs from the PCB_productionFiles.
 
