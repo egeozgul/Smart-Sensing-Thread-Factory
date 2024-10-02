@@ -7,7 +7,8 @@
 ## Overview
 
 This project focuses on automating the thread production process using a combination of sensors and stepper motors. By implementing PID control, the system can maintain optimal tension, temperature, and conductivity, ensuring consistent thread quality throughout the manufacturing process.
-See the research paper for more details: https://github.com/egeozgul/Smart-Sensing-Thread-Factory/blob/main/Thread_Coating_Factory_Paper.pdf 
+See the research paper for more details: [Research Paper Link](https://github.com/egeozgul/Smart-Sensing-Thread-Factory/blob/main/Thread_Coating_Factory_Paper.pdf) 
+
 ## Contents
 
 - **PCB_productionFiles**: This folder contains all the necessary PCB design files required for creating the electronic boards that drive the system. The PCBs connect the microcontroller to the sensors and motors, enabling accurate monitoring and control.
