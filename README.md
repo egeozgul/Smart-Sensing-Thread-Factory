@@ -7,7 +7,7 @@
 ## Overview
 
 This is a device built for Tufts NanoLab lab to assist the sensor development and wearable electronics research projects. This device automates the smart thread sensor production process using a combination of sensors and actuators.
-See the research paper for more details: [Research Paper Link](https://github.com/egeozgul/Smart-Sensing-Thread-Factory/blob/main/Thread_Coating_Factory_Paper.pdf) 
+This project is published in MDPI: [Publication](https://www.mdpi.com/2072-666X/15/10/1239) 
 
 ## Contents
 
