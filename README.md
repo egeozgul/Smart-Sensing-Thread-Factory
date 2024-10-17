@@ -7,7 +7,7 @@
 ## Overview
 
 This is a device built for Tufts NanoLab lab to assist the sensor development and wearable electronics research projects. This device automates the smart thread sensor production process using a combination of sensors and actuators.
-This project is published in MDPI: [Publication Link](https://www.mdpi.com/2072-666X/15/10/1239) 
+This project is published at MDPI: [Publication Link](https://www.mdpi.com/2072-666X/15/10/1239) 
 
 ## Contents
 
